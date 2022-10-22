@@ -6,9 +6,13 @@
     margin: 0;
 }
 
+/* Sets background colour to grey */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Sets colours of links in nav to white */
 
 a {
     color: #ffffff;
@@ -21,6 +25,8 @@ p {
 
 /* header */
 
+/* Sets background colour to blue and text colour to white. Also sets font and padding for header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,6 +38,8 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
+/* In the header,Changes the letters "seo" in Horiseon to a grey colour */
 
 header h1 .seo {
     color: #d9dcd6;
@@ -95,7 +103,13 @@ header nav ul li {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    /* Changes background colour to blue */
+
     background-color: #0072bb;
+
+    /* Changes text colour to white */
+
     color: #ffffff;
 }
 
@@ -122,6 +136,9 @@ header nav ul li {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    /* Sets background colour to blue */
+
     background-color: #2589bd;
 }
 
@@ -129,6 +146,9 @@ header nav ul li {
 
 .aside-section-rules {
     margin-bottom: 32px;
+
+    /* Sets text colour to white */
+
     color: #ffffff;
 }
 
