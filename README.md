@@ -13,7 +13,7 @@ I learned a lot about HTML tags and semantics. I think I also gained some knowle
 
 [Screenshot of application](https://user-images.githubusercontent.com/109035827/197354006-4390f5f3-2dbb-42c0-b069-cf159cda27a8.jpeg)
 
-Here is a link to the deployed application. [Link] (https://momatthewosborne.github.io/refactoring-website-accessibility/)
+Here is a link to the deployed application. [Link](https://momatthewosborne.github.io/refactoring-website-accessibility/)
  
 # Contact
 
@@ -21,6 +21,6 @@ If you have any questions, please contact me at:
  
   Github Profile: [MOMatthewOsborne ](https://github.com/MOMatthewOsborne )  
 
-  Email:  [Email Address] (momatthewosborne1@gmail.com)
+  Email:  [Email Address](momatthewosborne1@gmail.com)
 
   LinkedIn: [Matthew Osborne](https://www.linkedin.com/in/matthew-osborne-ba9192247  )
